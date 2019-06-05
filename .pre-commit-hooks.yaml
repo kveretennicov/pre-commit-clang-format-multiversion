@@ -1,0 +1,7 @@
+- id: "clang-format:3.8.0"
+  name: clang-format v3.8.0
+  description: Tool to format C/C++/Obj-C code
+  entry: bin/3.8.0/linux/amd64/clang-format
+  language: script
+  files: \.(c|cc|cxx|cpp|frag|glsl|h|hpp|hxx|ih|ispc|ipp|java|js|m|proto|vert)$
+
