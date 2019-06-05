@@ -1,0 +1,1 @@
+# pre-commit-clang-format-multiversion
